@@ -13,3 +13,4 @@ mv pidoratisator.pl /usr/local/bin/pidoratisator
 ## Preview
 
 ![image](https://github.com/user-attachments/assets/45b00285-a10d-4de7-8d4f-8c36cf3a850e)
+![image](https://github.com/user-attachments/assets/fec68b30-3194-4eb7-b97e-eacf10d0467d)
